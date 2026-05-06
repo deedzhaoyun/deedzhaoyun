@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 你好，我是 deedzhaoyun
 
-<!--
-**deedzhaoyun/deedzhaoyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的技术分享空间。这里记录我的学习与实战课程。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  热门课程 (推荐阅读)
+
+> 💡 **提示**：点击下方" 在线阅读"获得最佳浏览体验，"📁 源代码"可查看完整代码。
+
+| 课程名称 | 说明 | 链接 |
+| :--- | :--- | :--- |
+| **ESP32 MicroPython** | 嵌入式开发入门实战 | [📖 在线阅读](https://deedzhaoyun.github.io/ESP32-micropython/) · [📁 源代码](https://github.com/deedzhaoyun/ESP32-micropython) |
+| 课程名称 2 | 课程简介 | [📖 在线阅读](...) · [📁 源代码](...) |
+| 课程名称 3 | 课程简介 | [📖 在线阅读](...) · [📁 源代码](...) |
+
+---
+
+## 🛠️ 技术栈
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ESP32](https://img.shields.io/badge/Hardware-ESP32-orange)
+![MicroPython](https://img.shields.io/badge/Language-MicroPython-green)
+
+---
+
